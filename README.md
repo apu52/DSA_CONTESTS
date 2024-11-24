@@ -14,3 +14,11 @@ The solutions of the contests of DSA problems
 **Date : 24.11.2024** 
 
 **Q1** : Minimum Positive Sum Subarray 
+
+# GFG Weekly Contest (Every Sundays 7.00 pm - 8.30 am)
+
+**Date : 24.11.2024** 
+
+**Q1** : Max X
+
+**Q2** : Count Valid Pairs
