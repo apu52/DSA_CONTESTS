@@ -22,3 +22,13 @@ The solutions of the contests of DSA problems
 **Q1** : Max X
 
 **Q2** : Count Valid Pairs
+
+# CodeChef Contest (Every Wednesdays 8.00 pm - 10.00 am)
+
+**Date : 27.11.2024** 
+
+**Q1** : Calorie Intake
+
+**Q2** : Assignment Score
+
+**Q3** : Adjacent Sum Array
