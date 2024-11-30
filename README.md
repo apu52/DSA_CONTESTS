@@ -25,10 +25,19 @@ The solutions of the contests of DSA problems
 
 # CodeChef Contest (Every Wednesdays 8.00 pm - 10.00 am)
 
-**Date : 27.11.2024** 
+**Date : 20.11.2024** (Codechef_Starters_161)
+
+**Q1** : Moneymaking
+
+
+
+**Date : 27.11.2024** (Codechef_Starters_162)
 
 **Q1** : Calorie Intake
 
 **Q2** : Assignment Score
 
 **Q3** : Adjacent Sum Array
+
+
+
