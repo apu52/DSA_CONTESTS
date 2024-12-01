@@ -45,6 +45,8 @@ The solutions of the contests of DSA problems
 
 **Q1** : Moneymaking
 
+**Q2** : Selling Donuts
+
 **Date : 27.11.2024** (Codechef_Starters_162)
 
 **Q1** : Calorie Intake
