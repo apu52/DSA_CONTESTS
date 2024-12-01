@@ -15,6 +15,10 @@ The solutions of the contests of DSA problems
 
 **Q1** : Minimum Positive Sum Subarray 
 
+**Date : 01.12.2024** 
+
+**Q1** : Smallest Number With All Set Bits
+
 # GFG Weekly Contest (Every Sundays 7.00 pm - 8.30 am)
 
 **Date : 24.11.2024** 
