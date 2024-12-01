@@ -31,13 +31,19 @@ The solutions of the contests of DSA problems
 
 **Q2** : Count Valid Pairs
 
+**Date : 01.12.2024** 
+
+**Q1** : Seating Arrangement
+
+**Q2** : Biwise Operations
+
+**Q3** : Subset XOR
+
 # CodeChef Contest (Every Wednesdays 8.00 pm - 10.00 am)
 
 **Date : 20.11.2024** (Codechef_Starters_161)
 
 **Q1** : Moneymaking
-
-
 
 **Date : 27.11.2024** (Codechef_Starters_162)
 
