@@ -21,6 +21,8 @@ The solutions of the contests of DSA problems
 
 **Q2** : Identify the Largest Outlier in an Array
 
+**Q3** : Maximize the Number of Target Nodes After Connecting Trees I
+
 # GFG Weekly Contest (Every Sundays 7.00 pm - 8.30 am)
 
 **Date : 24.11.2024** 
