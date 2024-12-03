@@ -47,6 +47,8 @@ The solutions of the contests of DSA problems
 
 **Q2** : Too Many Oranges
 
+**Q3** : Equate S and T
+
 **Date : 20.11.2024** (Codechef_Starters_161)
 
 **Q1** : Moneymaking 
