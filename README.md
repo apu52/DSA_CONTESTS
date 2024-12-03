@@ -45,6 +45,8 @@ The solutions of the contests of DSA problems
 
 **Q1** : Movie Snacks
 
+**Q2** : Too Many Oranges
+
 **Date : 20.11.2024** (Codechef_Starters_161)
 
 **Q1** : Moneymaking 
