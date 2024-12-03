@@ -43,11 +43,11 @@ The solutions of the contests of DSA problems
 
 **Date : 13.11.2024** (Codechef_Starters_160)
 
-**Q1** : Moneymaking
+**Q1** : Movie Snacks
 
 **Date : 20.11.2024** (Codechef_Starters_161)
 
-**Q1** : Movie Snacks
+**Q1** : Moneymaking 
 
 **Q2** : Selling Donuts
 
