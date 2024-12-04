@@ -63,5 +63,10 @@ The solutions of the contests of DSA problems
 
 **Q3** : Adjacent Sum Array
 
+**Date : 04.12.2024** (Codechef_Starters_163)
+
+**Q1** : Chef and Socks
+
+**Q2** : Nice Array
 
 
