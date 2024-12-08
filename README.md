@@ -39,6 +39,12 @@ The solutions of the contests of DSA problems
 
 **Q3** : Subset XOR
 
+**Date : 08.12.2024** 
+
+**Q1** : Minimum Jumps
+
+**Q2** : Can Transform ?
+
 # CodeChef Contest (Every Wednesdays 8.00 pm - 10.00 am)
 
 **Date : 13.11.2024** (Codechef_Starters_160)
