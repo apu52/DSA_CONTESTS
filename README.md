@@ -75,4 +75,12 @@ The solutions of the contests of DSA problems
 
 **Q2** : Nice Array
 
+**Date : 11.12.2024** (Codechef_Starters_164)
 
+**Q1** : New-Pro Coder
+
+**Q2** : Itz Simple
+
+**Q3** : Swap and Flip
+
+**Q4** : Construct Permutation
