@@ -84,3 +84,17 @@ The solutions of the contests of DSA problems
 **Q3** : Swap and Flip
 
 **Q4** : Construct Permutation
+
+**Date : 25.12.2024** (Codechef_Starters_166)
+
+**Q1** : Merry Christmas!
+
+**Q2** : Christmas Gifts
+
+**Q3** : Chefland Library
+
+**Q4** : Costly Permutations
+
+**Q5** : Distinct Power
+
+
