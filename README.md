@@ -45,6 +45,14 @@ The solutions of the contests of DSA problems
 
 **Q2** : Can Transform ?
 
+**Date : 29.12.2024** 
+
+**Q1** : Find n-th Term
+
+**Q2** : Count n-digit Numbers 
+
+**Q3** : Max Possible Bitwise AND
+
 # CodeChef Contest (Every Wednesdays 8.00 pm - 10.00 am)
 
 **Date : 13.11.2024** (Codechef_Starters_160)
