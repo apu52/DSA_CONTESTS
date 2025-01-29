@@ -105,4 +105,12 @@ The solutions of the contests of DSA problems
 
 **Q5** : Distinct Power
 
+**Date : 29.01.2025** (Codechef_Starters_171)
+
+**Q1** : Advitiya
+
+**Q2** : Swish Game
+
+**Q3** : White Wall
+
 
